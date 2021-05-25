@@ -1,0 +1,121 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Boris",
+      "lastName": "Johnson",
+      "blockContact": true,
+      "addressId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "The",
+      "lastName": "Queen",
+      "blockContact": "false",
+      "addressId": 2
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Johnson",
+      "blockContact": "on",
+      "addressId": 8,
+      "id": 3
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "blockContact": "on",
+      "addressId": 9,
+      "id": 4
+    },
+    {
+      "firstName": "Jezebel",
+      "lastName": "Deville",
+      "blockContact": "on",
+      "addressId": 10,
+      "id": 5
+    },
+    {
+      "firstName": "BADMAN BADDA",
+      "lastName": "WINSTON",
+      "blockContact": "on",
+      "addressId": 13,
+      "id": 8
+    },
+    {
+      "firstName": "Ronald",
+      "lastName": "Goodman",
+      "blockContact": "on",
+      "addressId": 14,
+      "id": 9
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "street": "10 Downing Street",
+      "city": "London",
+      "postCode": "SW1A 2AB"
+    },
+    {
+      "id": 2,
+      "street": "WINDSOR CASTLE",
+      "city": "London",
+      "postCode": "SW1A 1AA"
+    },
+    {
+      "street": "1 north end road",
+      "city": "croydon",
+      "postCode": "cr0 0an",
+      "id": 3
+    },
+    {
+      "street": "1 north end road",
+      "city": "croydon",
+      "postCode": "cr0 0an",
+      "id": 4
+    },
+    {
+      "street": "1 north end road",
+      "city": "croydon",
+      "postCode": "cr0 0an",
+      "id": 5
+    },
+    {
+      "street": "1 north end road",
+      "city": "croydon",
+      "postCode": "cr0 0an",
+      "id": 6
+    },
+    {
+      "street": "Forty Street",
+      "city": "London",
+      "postCode": "CCC",
+      "id": 8
+    },
+    {
+      "street": "1 Smith Avenue",
+      "city": "Smithfield",
+      "postCode": "S1 S",
+      "id": 9
+    },
+    {
+      "street": "Hell Street",
+      "city": "Doom",
+      "postCode": "H1 ",
+      "id": 10
+    },
+    {
+      "street": "KING STREET",
+      "city": "Birmingham",
+      "postCode": "B1 10A",
+      "id": 13
+    },
+    {
+      "street": "Back Street Street",
+      "city": "Glasgow",
+      "postCode": "G1",
+      "id": 14
+    }
+  ]
+}
